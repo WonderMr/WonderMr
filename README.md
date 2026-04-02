@@ -14,7 +14,7 @@ user: WonderMr
 role: Systems Architect / Agent Engineer
 status: ONLINE
 current_objective: "Building Autonomous Agent Systems"
-location: "Netscape / Localhost"
+location: "Earth / SSH"
 stack:
   - languages: [Python, Go, TypeScript, Bash, PowerShell, 1C Enterprise, C#]
   - core: [Linux, Docker, Git, PostgreSQL, MariaDB]
