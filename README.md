@@ -27,7 +27,7 @@ stack:
   <table style="border: none; background-color: transparent;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-six-kappa-74.vercel.app/api?username=WonderMr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="WonderMr's Stats" />
+        <img src="https://github-readme-stats-six-kappa-74.vercel.app/api?username=WonderMr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&v=2" alt="WonderMr's Stats" />
       </td>
       <td align="center" style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=WonderMr&theme=radical&hide_border=true&background=0d1117" alt="WonderMr's Streak" />
@@ -58,7 +58,7 @@ stack:
 ### >_ LANGUAGE_DISTRIBUTION
 
 <div align="center">
-  <img src="https://github-readme-stats-six-kappa-74.vercel.app/api/top-langs/?username=WonderMr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-six-kappa-74.vercel.app/api/top-langs/?username=WonderMr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&v=2" />
 </div>
 
 ---
