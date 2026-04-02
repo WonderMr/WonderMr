@@ -58,7 +58,7 @@ stack:
 ### >_ LANGUAGE_DISTRIBUTION
 
 <div align="center">
-  <img src="https://github-readme-stats-six-kappa-74.vercel.app/api/top-langs/?username=WonderMr&theme=radical&hide_border=true&bg_color=0d1117&langs_count=20&card_width=500&include_forks=true&v=5" />
+  <img src="https://github-readme-stats-six-kappa-74.vercel.app/api/top-langs/?username=WonderMr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=20&card_width=600&include_forks=true&v=6" />
 </div>
 
 ---
