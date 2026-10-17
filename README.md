@@ -24,6 +24,41 @@ stack:
   - platforms: [Flipper Zero, Telegram Bots, Vercel]
 ```
 
+### >_ PROJECTS
+
+Open-source projects. Each repository has an `AGENTS.md` for coding agents; most also have an `llms.txt`.
+
+**AI agents and desktop apps**
+
+| Project | What it is |
+|---|---|
+| [Agents-Core](https://github.com/IEZhu/Agents) | Local MCP server for Claude, Codex, Cursor and other AI clients: specialist personas, reusable Markdown workflows, per-repository memory and validated subagent handoffs |
+| [blincho](https://github.com/WonderMr/blincho) | Free screen break reminder for macOS, Windows and Linux: 20-20-20 eye breaks, exercises, local statistics, 30 languages ([blincho.app](https://blincho.app)) |
+| [shi](https://github.com/IEZhu/shi) | Local meeting transcriber for macOS: mic and system audio capture, on-device speech-to-text and speaker diarization |
+| [sshgate](https://github.com/IEZhu/sshgate) | Open a ufw firewall port for your current IP via a secret HTTPS link + TOTP: on-demand SSH access from changing IPs |
+| [class](https://github.com/IEZhu/class) | Self-hosted platform for a small English class: lessons and LiveKit video rooms |
+
+**1C:Enterprise tooling**
+
+| Project | What it is |
+|---|---|
+| [Nikita](https://github.com/IEZhu/Nikita) | Exports 1C event logs (.lgf/.lgd) to ClickHouse, Solr and Redis; runs as a Windows service or systemd daemon |
+| [Loggie](https://github.com/WonderMr/Loggie) | 1C 8.3 extension that logs before/after data changes to the event log (журнал регистрации) |
+| [C1Updater](https://github.com/WonderMr/C1Updater) | PowerShell script for unattended 1C 8.3 configuration updates from .cf or repository via COM or RAS |
+| [bash1c](https://github.com/WonderMr/bash1c) | Bash and Perl scripts to analyse 1C tech logs (ТЖ) and event logs: top contexts, exceptions, licenses |
+| [gobbix](https://github.com/WonderMr/gobbix) | Go Windows service that checks 1C infobase availability and sends Telegram alerts |
+| [ZH1C](https://github.com/WonderMr/ZH1C) | 1C 8.3 helper extension: event log, dates, strings, JSON, additional attributes and ZUP lookups |
+| [Linter1](https://github.com/WonderMr/Linter1) | Experimental OneScript formatter for 1C BSL code |
+
+**Other**
+
+| Project | What it is |
+|---|---|
+| [3D-models-for-Growing-Stuff](https://github.com/WonderMr/3D-models-for-Growing-Stuff) | 3D-printable STL/3MF and Blender parts for grow tents: vent connectors, irrigation splitters, lamp holders, trellis |
+| [HotKeys-4-Win-Virtual-Desktops](https://github.com/WonderMr/HotKeys-4-Win-Virtual-Desktops) | AutoHotkey hotkeys to switch Windows virtual desktops, even inside full-screen RDP sessions |
+| [VV](https://github.com/WonderMr/VV) | Live Russian-to-English speech translator prototype: Vosk recognition, MyMemory translation, pyttsx3 TTS |
+| [Pranostratic](https://github.com/WonderMr/Pranostratic) | XMind mind map of the Nostratic language macrofamily tree (labels in Russian) |
+
 ### >_ TELEMETRY
 
 <div align="center">
