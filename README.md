@@ -32,7 +32,7 @@ Open-source projects. Each repository has an `AGENTS.md` for coding agents; most
 
 | Project | What it is |
 |---|---|
-| [Agents-Core](https://github.com/IEZhu/Agents) | Local MCP server for Claude, Codex, Cursor and other AI clients: specialist personas, reusable Markdown workflows, per-repository memory and validated subagent handoffs |
+| [Agents-Core](https://github.com/IEZhu/Agents) | Local MCP server for Claude, Codex, Cursor and other AI clients: specialist personas, reusable Markdown workflows, per-repository memory and validated subagent handoffs ([agents-core.ai](https://agents-core.ai)) |
 | [blincho](https://github.com/WonderMr/blincho) | Free screen break reminder for macOS, Windows and Linux: 20-20-20 eye breaks, exercises, local statistics, 30 languages ([blincho.app](https://blincho.app)) |
 | [shi](https://github.com/IEZhu/shi) | Local meeting transcriber for macOS: mic and system audio capture, on-device speech-to-text and speaker diarization |
 | [sshgate](https://github.com/IEZhu/sshgate) | Open a ufw firewall port for your current IP via a secret HTTPS link + TOTP: on-demand SSH access from changing IPs |
