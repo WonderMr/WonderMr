@@ -54,7 +54,6 @@ Open-source projects. Each repository has an `AGENTS.md` for coding agents; most
 
 | Project | What it is |
 |---|---|
-| [3D-models-for-Growing-Stuff](https://github.com/WonderMr/3D-models-for-Growing-Stuff) | 3D-printable STL/3MF and Blender parts for grow tents: vent connectors, irrigation splitters, lamp holders, trellis |
 | [HotKeys-4-Win-Virtual-Desktops](https://github.com/WonderMr/HotKeys-4-Win-Virtual-Desktops) | AutoHotkey hotkeys to switch Windows virtual desktops, even inside full-screen RDP sessions |
 | [VV](https://github.com/WonderMr/VV) | Live Russian-to-English speech translator prototype: Vosk recognition, MyMemory translation, pyttsx3 TTS |
 | [Pranostratic](https://github.com/WonderMr/Pranostratic) | XMind mind map of the Nostratic language macrofamily tree (labels in Russian) |
